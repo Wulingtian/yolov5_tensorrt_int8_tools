@@ -1,6 +1,4 @@
-# yolov5_tensorrt_int8_tools
-tensorrt int8 量化yolov5 4.0 onnx模型
-onnx模型转换为 int8 tensorrt引擎
+# onnx模型转换为 int8 tensorrt引擎
 
 git clone https://github.com/Wulingtian/yolov5_tensorrt_int8_tools.git（求star）
 
